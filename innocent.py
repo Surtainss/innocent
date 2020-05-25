@@ -1,6 +1,6 @@
 # CONFIG
 # ---------
-token = "mfa.Egudw8HVsikJzC02mg5XtaODoNRXqg6_1MhQu2tohQkDzD1JJn5n_eFX-8t6ZIZX7BE6RT7viy_mClcuyhiv" # To find this, it's harder than it used to be. Please Google the process.
+token = "YOUR TOKEN HERE" # To find this, it's harder than it used to be. Please Google the process.
 prefix = "~" # This will be used at the start of commands.
 # ----------
 
